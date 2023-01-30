@@ -1,3 +1,8 @@
+\*Deprecated\*
+==========
+
+The ontology source code has been moved to a separate repository: [biobanking](https://github.com/biobanking/biobanking). Please view the latest changes of OBIB in this repository.
+
 Ontology for Biobanking (OBIB)
 ==========
 
